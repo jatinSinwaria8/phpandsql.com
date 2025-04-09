@@ -1,0 +1,14 @@
+{
+    "require": {
+        "phpmailer/phpmailer": "^6.9",
+        "dompdf/dompdf": "^2."
+
+    },
+    
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    }
+    
+}
